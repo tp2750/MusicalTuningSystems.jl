@@ -1,0 +1,7 @@
+name = "MusicalTuningSystems"
+uuid = "46b061b3-782d-5b83-b0fe-6be4b8bf45df"
+authors = ["Thomas Agersten Poulsen <ta.poulsen@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
