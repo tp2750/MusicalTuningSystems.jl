@@ -9,4 +9,4 @@ PackageName: MusicalTuningSystems
 PackageOwner: tp2750
 PackageUUID: 46b061b3-782d-5b83-b0fe-6be4b8bf45df
 _commit: v0.8.0
-_src_path: https://github.com/abelsiqueira/BestieTemplate.jl
+_src_path: https://github.com/JuliaBesties/BestieTemplate.jl
